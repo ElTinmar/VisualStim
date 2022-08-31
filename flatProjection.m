@@ -47,7 +47,7 @@ classdef flatProjection
             theta(ind_valid) = atan2(x(ind_valid)-obj.x_zero,obj.cx*obj.dw);
         end
         
-        function phi = get_phi(obj,y)
+        function phi = get_phi(obj,y,x)
             phi = NaN(size(y));
             ind_valid = find((y >= obj.y_range(1)) & (y <= obj.y_range(2)));
             phi(ind_valid) = atan2(y(ind_valid)-obj.y_zero,obj.cy*obj.dw);
