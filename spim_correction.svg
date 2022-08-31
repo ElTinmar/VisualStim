@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="spim_correction.svg"
+   inkscape:export-filename="/media/martin/NFS0/Owncloud_ENS/ENS/Scripts/Stimulation/visual/cylinder_correction.png"
+   inkscape:export-xdpi="299"
+   inkscape:export-ydpi="299">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6760"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6758"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6630"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path6628" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5146"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path5144" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5028"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5026"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4734"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4732"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4628"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path4626" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3230"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path3228" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3136"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3134"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2884"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2882"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2802"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2800"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2726"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2724"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2638"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path2636" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2574"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path2572" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2516"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path2514" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2368"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3069"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3067"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1575"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1571"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1567"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1562"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1558"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1554"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1550"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1546"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1542"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1538"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1534"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1530"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1526"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1522"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1518"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="296.99999 : 105 : 1"
+       inkscape:persp3d-origin="148.49999 : 70.000003 : 1"
+       id="perspective6527" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3896"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3894"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2196"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2194"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2088"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2086"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1590"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1578"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6618">
+      <rect
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999986;stroke-opacity:1"
+         id="rect6620"
+         width="90.283333"
+         height="89.068771"
+         x="265.99167"
+         y="384.04446" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1405">
+      <rect
+         style="opacity:0.95;fill:#87aade;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999986;stroke-opacity:1"
+         id="rect1407"
+         width="121.42747"
+         height="146.99115"
+         x="-274.77911"
+         y="114.85878" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1510">
+      <rect
+         style="opacity:0.95;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25374907;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999986;stroke-opacity:1"
+         id="rect1512"
+         width="96.331116"
+         height="73.049911"
+         x="-318.28729"
+         y="81.072784" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7073">
+      <rect
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.5118103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999986;stroke-opacity:0.99607843"
+         id="rect7075"
+         width="4470.2358"
+         height="1459.8425"
+         x="758.42535"
+         y="-5301.3628"
+         transform="scale(1,-1)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6418519"
+     inkscape:cx="217.53557"
+     inkscape:cy="138.12265"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1864"
+     inkscape:window-height="1016"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.4942144,-176.05991)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.95;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="217.33444"
+       y="310.66214"
+       id="text3019"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="217.33444"
+         y="313.20425"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332" /></text>
+    <text
+       id="text3057"
+       y="318.53476"
+       x="196.29305"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.95;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
+         y="321.07687"
+         x="196.29305"
+         id="tspan3055"
+         sodipodi:role="line" /></text>
+    <path
+       style="opacity:1;fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.69027156;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3118"
+       sodipodi:type="arc"
+       sodipodi:cx="228.43805"
+       sodipodi:cy="-138.37518"
+       sodipodi:rx="7.9565763"
+       sodipodi:ry="8.340024"
+       sodipodi:start="5.9434928"
+       sodipodi:end="0.58956197"
+       d="m 235.93996,-141.15406 a 7.9565763,8.340024 0 0 1 -0.88853,7.41591 l -6.61338,-4.63703 z"
+       transform="rotate(110.53561)" />
+    <rect
+       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.47913146;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2162"
+       width="90"
+       height="25.226471"
+       x="10.569988"
+       y="237.03381" />
+    <path
+       transform="rotate(-69.46439)"
+       d="m -220.78316,135.62195 a 7.9565763,8.340024 0 0 1 0.42142,2.01742 l -7.92334,0.76145 z"
+       sodipodi:end="6.1917571"
+       sodipodi:start="5.9434928"
+       sodipodi:ry="8.340024"
+       sodipodi:rx="7.9565763"
+       sodipodi:cy="138.40082"
+       sodipodi:cx="-228.28508"
+       sodipodi:type="arc"
+       id="path3116"
+       style="opacity:1;fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.69027156;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.69027156;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3114"
+       sodipodi:type="arc"
+       sodipodi:cx="202.72438"
+       sodipodi:cy="-135.96114"
+       sodipodi:rx="7.9565763"
+       sodipodi:ry="8.340024"
+       sodipodi:start="5.9434928"
+       sodipodi:end="6.1917571"
+       d="m 210.2263,-138.74001 a 7.9565763,8.340024 0 0 1 0.42143,2.01742 l -7.92335,0.76145 z"
+       transform="rotate(110.53561)" />
+    <rect
+       style="opacity:0.5;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.48182118;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2160"
+       width="90"
+       height="44.129879"
+       x="10.569988"
+       y="192.90393" />
+    <path
+       transform="rotate(-70.25824)"
+       d="m -194.77283,129.68322 a 9.9461699,10.425502 0 0 1 0.22377,6.19415 l -9.60159,-2.7204 z"
+       sodipodi:end="0.26399344"
+       sodipodi:start="5.9434928"
+       sodipodi:ry="10.425502"
+       sodipodi:rx="9.9461699"
+       sodipodi:cy="133.15697"
+       sodipodi:cx="-204.15065"
+       sodipodi:type="arc"
+       id="path3110"
+       style="opacity:1;fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.8628785;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.8628785;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3102"
+       sodipodi:type="arc"
+       sodipodi:cx="159.64021"
+       sodipodi:cy="-145.95261"
+       sodipodi:rx="9.9461699"
+       sodipodi:ry="10.425503"
+       sodipodi:start="5.9434928"
+       sodipodi:end="0.26399344"
+       d="m 169.01803,-149.42635 a 9.9461699,10.425503 0 0 1 0.22377,6.19415 l -9.60159,-2.72041 z"
+       transform="rotate(109.74176)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.569988,237.33186 H 100.56999"
+       id="path2164"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.569988,262.3904 H 100.56999"
+       id="path2166"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="0.5"
+       cy="315.74615"
+       cx="83.546532"
+       id="circle2176"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08710468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2574);marker-end:url(#marker2884)"
+       d="m 103.04455,198.82954 v 38.337"
+       id="path2178"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2184"
+       d="m 106.3282,237.43797 v 24.868"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2516);marker-end:url(#marker2802)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.569988,276.76008 H 100.56999"
+       id="path2188"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#StopM);marker-end:url(#marker2726)"
+       d="m 103.15318,262.26505 v 14.628"
+       id="path2190"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2192"
+       d="m 106.3282,276.62896 v 39.617"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2638);marker-end:url(#marker2638)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.54726,190.04151 V 320.77326"
+       id="path3090"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.581703,199.28529 -27.365171,38.10174 -6.677625,25.00836 -20.82257,14.34544"
+       id="path3092"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 83.404477,315.73175 28.70687,276.81576"
+       id="path3094"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="0.5"
+       cy="237.33284"
+       cx="56.234997"
+       id="circle3096"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:0.08710468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:0.08710468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3098"
+       cx="49.476349"
+       cy="262.39136"
+       r="0.5" />
+    <circle
+       r="0.50000983"
+       cy="276.76007"
+       cx="28.723349"
+       id="circle3100"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:0.08710639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08710468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2174"
+       cx="83.546532"
+       cy="199.32954"
+       r="0.5" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3106"
+       d="M 56.235342,190.03565 V 320.77326"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.476775,190.03531 V 320.77326"
+       id="path3108"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3136);marker-end:url(#marker3230)"
+       d="M 56.171727,187.55863 H 83.605331"
+       id="path3132"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4624"
+       d="m 49.418016,184.17269 h 6.975099"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4628);marker-end:url(#marker4734)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5028);marker-end:url(#marker5146)"
+       d="M 28.514931,187.55863 H 49.535117"
+       id="path5024"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6576"
+       d="M 28.839272,190.03468 V 320.77326"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6626"
+       d="M 28.780929,324.58063 H 83.473114"
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6630);marker-end:url(#marker6760)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.112694"
+       y="185.32166"
+       id="text7328"><tspan
+         sodipodi:role="line"
+         id="tspan7326"
+         x="69.112694"
+         y="185.32166"
+         style="stroke-width:0.26458332">a</tspan></text>
+    <text
+       id="text7356"
+       y="182.67586"
+       x="52.086323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="182.67586"
+         x="52.086323"
+         id="tspan7354"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.20578"
+       y="186.38005"
+       id="text7384"><tspan
+         sodipodi:role="line"
+         id="tspan7382"
+         x="38.20578"
+         y="186.38005"
+         style="stroke-width:0.26458332">c</tspan></text>
+    <text
+       id="text7412"
+       y="328.19659"
+       x="55.351185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="328.19659"
+         x="55.351185"
+         id="tspan7410"
+         sodipodi:role="line">x</tspan></text>
+    <text
+       id="text7440"
+       y="218.72592"
+       x="106.15434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="218.72592"
+         x="106.15434"
+         id="tspan7438"
+         sodipodi:role="line">d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7442">w</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.32935"
+       y="250.40683"
+       id="text7448"><tspan
+         sodipodi:role="line"
+         id="tspan7446"
+         x="109.32935"
+         y="250.40683"
+         style="stroke-width:0.26458332">d<tspan
+   id="tspan7444"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan></tspan></text>
+    <text
+       id="text7454"
+       y="270.29617"
+       x="106.15434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="270.29617"
+         x="106.15434"
+         id="tspan7452"
+         sodipodi:role="line">d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7450">a</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.80018"
+       y="296.75446"
+       id="text7532"><tspan
+         sodipodi:role="line"
+         id="tspan7530"
+         x="108.80018"
+         y="296.75446"
+         style="stroke-width:0.26458332">d<tspan
+   id="tspan7528"
+   style="font-size:64.99999762%;baseline-shift:sub">proj</tspan></tspan></text>
+    <text
+       id="text7536"
+       y="211.78001"
+       x="79.166855"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="211.78001"
+         x="79.166855"
+         id="tspan7534"
+         sodipodi:role="line">θ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.058521"
+       y="226.06755"
+       id="text7540"><tspan
+         sodipodi:role="line"
+         id="tspan7538"
+         x="59.058521"
+         y="226.06755"
+         style="stroke-width:0.26458332">θ</tspan></text>
+    <text
+       id="text7544"
+       y="248.81731"
+       x="53.848469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="248.81731"
+         x="53.848469"
+         id="tspan7542"
+         sodipodi:role="line">ψ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.837799"
+       y="252.22159"
+       id="text7548"><tspan
+         sodipodi:role="line"
+         id="tspan7546"
+         x="49.837799"
+         y="252.22159"
+         style="stroke-width:0.26458332">ψ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.307408"
+       y="197.00369"
+       id="text7552"><tspan
+         sodipodi:role="line"
+         id="tspan7550"
+         x="12.307408"
+         y="197.00369"
+         style="stroke-width:0.26458332">water</tspan></text>
+    <text
+       id="text7556"
+       y="241.4537"
+       x="12.307408"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="241.4537"
+         x="12.307408"
+         id="tspan7554"
+         sodipodi:role="line">glass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.307408"
+       y="266.32449"
+       id="text7560"><tspan
+         sodipodi:role="line"
+         id="tspan7558"
+         x="12.307408"
+         y="266.32449"
+         style="stroke-width:0.26458332">air</tspan></text>
+    <text
+       id="text7564"
+       y="279.02451"
+       x="12.307408"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="279.02451"
+         x="12.307408"
+         id="tspan7562"
+         sodipodi:role="line">screen</tspan></text>
+    <text
+       id="text7568"
+       y="272.28601"
+       x="43.44949"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="272.28601"
+         x="43.44949"
+         id="tspan7566"
+         sodipodi:role="line">α</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.2231"
+       y="201.2327"
+       id="text7641"><tspan
+         sodipodi:role="line"
+         id="tspan7639"
+         x="132.2231"
+         y="201.2327"
+         style="stroke-width:0.26458332">tan θ = a/d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7643">w</tspan> </tspan></text>
+    <text
+       id="text7649"
+       y="206.52437"
+       x="132.2231"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="206.52437"
+         x="132.2231"
+         id="tspan7647"
+         sodipodi:role="line">tan ψ = b/d<tspan
+   id="tspan7645"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.2231"
+       y="211.81604"
+       id="text7655"><tspan
+         sodipodi:role="line"
+         id="tspan7653"
+         x="132.2231"
+         y="211.81604"
+         style="stroke-width:0.26458332">tan α = c/d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7651">a</tspan> </tspan></text>
+    <text
+       id="text7732"
+       y="202.29536"
+       x="12.492577"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="202.29536"
+         x="12.492577"
+         id="tspan7730"
+         sodipodi:role="line">n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7734">w</tspan> = 1.3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.307408"
+       y="246.21638"
+       id="text7740"><tspan
+         sodipodi:role="line"
+         id="tspan7738"
+         x="12.307408"
+         y="246.21638"
+         style="stroke-width:0.26458332">n<tspan
+   id="tspan7736"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> = 1.5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.492577"
+       y="271.08707"
+       id="text7746"><tspan
+         sodipodi:role="line"
+         id="tspan7744"
+         x="12.492577"
+         y="271.08707"
+         style="stroke-width:0.26458332">n<tspan
+   id="tspan7742"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> = 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.08667"
+       y="216.66623"
+       id="text7750"><tspan
+         sodipodi:role="line"
+         id="tspan7748"
+         x="132.08667"
+         y="216.66623"
+         style="stroke-width:0.26458332">n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7756">w</tspan> sin θ = n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7754">g</tspan> sin ψ = n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7752">a</tspan> sin α  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.2231"
+       y="232.98273"
+       id="text7760"><tspan
+         sodipodi:role="line"
+         id="tspan7758"
+         x="132.2231"
+         y="232.98273"
+         style="stroke-width:0.26458332">x = a + b + c</tspan></text>
+    <text
+       id="text7766"
+       y="201.2327"
+       x="153.38979"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="201.2327"
+         x="153.38979"
+         id="tspan7764"
+         sodipodi:role="line">a = d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7780">w</tspan> . tan θ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="153.38979"
+       y="206.52437"
+       id="text7772"><tspan
+         sodipodi:role="line"
+         id="tspan7770"
+         x="153.38979"
+         y="206.52437"
+         style="stroke-width:0.26458332">b = d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7782">g</tspan> . tan ψ</tspan></text>
+    <text
+       id="text7778"
+       y="211.81604"
+       x="153.38979"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="211.81604"
+         x="153.38979"
+         id="tspan7776"
+         sodipodi:role="line">c = d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7784">a</tspan> . tan α</tspan></text>
+    <text
+       id="text7814"
+       y="221.9579"
+       x="132.08667"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="221.9579"
+         x="132.08667"
+         id="tspan7812"
+         sodipodi:role="line">ψ = sin<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan7820">-1</tspan>(n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7822">w</tspan>/n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7824">g</tspan> sin θ)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.08667"
+       y="227.24957"
+       id="text7818"><tspan
+         sodipodi:role="line"
+         id="tspan7816"
+         x="132.08667"
+         y="227.24957"
+         style="stroke-width:0.26458332">α = sin<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan7826">-1</tspan>(n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7828">w</tspan>/n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7830">a</tspan> sin θ)  </tspan></text>
+    <g
+       id="g8139"
+       transform="translate(-58.103929,37.436212)">
+      <text
+         id="text7926"
+         y="201.2735"
+         x="190.2971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.87826061px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2698369"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.2698369"
+           y="201.2735"
+           x="190.2971"
+           id="tspan7924"
+           sodipodi:role="line">tan λ = sin λ / cos λ </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.87826061px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2698369"
+         x="190.2971"
+         y="206.67024"
+         id="text7930"><tspan
+           sodipodi:role="line"
+           id="tspan7928"
+           x="190.2971"
+           y="206.67024"
+           style="stroke-width:0.2698369">cos (sin<tspan
+   id="tspan7932"
+   style="font-size:1.87086928px;baseline-shift:super;stroke-width:0.2698369">-1</tspan> λ) =   1 - λ<tspan
+   id="tspan7934"
+   style="font-size:1.87086928px;baseline-shift:super;stroke-width:0.2698369">2</tspan></tspan></text>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path7936"
+         d="m 208.22565,205.44619 0.66095,1.13307 0.73347,-2.94654 h 7.77203 v 0.47606"
+         style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion8003"><rect
+           id="rect8005"
+           width="6.4332843"
+           height="10.887096"
+           x="847.21405"
+           y="201.07539" /></flowRegion><flowPara
+         id="flowPara8007" /></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8141"
+       width="44.237015"
+       height="51.9687"
+       x="129.28563"
+       y="196.00392" />
+    <g
+       id="g8130"
+       transform="translate(-121.40919,99.987739)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="132.2231"
+         y="243.56607"
+         id="text7788"><tspan
+           sodipodi:role="line"
+           id="tspan7786"
+           x="132.2231"
+           y="243.56607"
+           style="stroke-width:0.26458332">x = d<tspan
+   id="tspan7790"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan> . tan θ + d<tspan
+   id="tspan7792"
+   style="font-size:64.99999762%;baseline-shift:sub">g </tspan>. tan ψ + d<tspan
+   id="tspan7794"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> . tan α</tspan></text>
+      <text
+         id="text7804"
+         y="248.86421"
+         x="131.95827"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26768601"
+           y="248.86421"
+           x="131.95827"
+           id="tspan7802"
+           sodipodi:role="line">x = d<tspan
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601"
+   id="tspan7796">w</tspan> . tan θ + d<tspan
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601"
+   id="tspan7798">g </tspan>. tan (sin<tspan
+   id="tspan7832"
+   style="font-size:64.99999762%;baseline-shift:super">-1</tspan>(n<tspan
+   id="tspan7834"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7836"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> sin θ)) + d<tspan
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601"
+   id="tspan7800">a</tspan> . tan (sin<tspan
+   id="tspan7838"
+   style="font-size:64.99999762%;baseline-shift:super">-1</tspan>(n<tspan
+   id="tspan7844"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7846"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> sin θ))</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+         x="131.95827"
+         y="259.44754"
+         id="text7868"><tspan
+           sodipodi:role="line"
+           id="tspan7866"
+           x="131.95827"
+           y="259.44754"
+           style="stroke-width:0.26768601">x = d<tspan
+   id="tspan7848"
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601">w</tspan> . tan θ + dg .                                            + da .  </tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7870"
+         d="m 157.63253,258.6937 h 32.07878"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text7876"
+         y="256.10254"
+         x="159.40715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="256.10254"
+           x="159.40715"
+           id="tspan7874"
+           sodipodi:role="line">sin (sin<tspan
+   id="tspan7908"
+   style="font-size:64.99999762%;baseline-shift:super">-1</tspan>(n<tspan
+   id="tspan7900"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7902"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> sin θ))</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="159.00339"
+         y="262.98172"
+         id="text7880"><tspan
+           sodipodi:role="line"
+           id="tspan7878"
+           x="159.00339"
+           y="262.98172"
+           style="stroke-width:0.26458332">cos (sin<tspan
+   id="tspan7910"
+   style="font-size:64.99999762%;baseline-shift:super">-1</tspan>(n<tspan
+   id="tspan7904"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7906"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> sin θ))</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 199.96589,258.6937 h 32.07878"
+         id="path7890"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="201.74052"
+         y="256.10254"
+         id="text7894"><tspan
+           sodipodi:role="line"
+           id="tspan7892"
+           x="201.74052"
+           y="256.10254"
+           style="stroke-width:0.26458332">sin (sin<tspan
+   id="tspan7912"
+   style="font-size:64.99999762%;baseline-shift:super">-1</tspan>(n<tspan
+   id="tspan7916"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7918"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> sin θ))</tspan></text>
+      <text
+         id="text7898"
+         y="262.98172"
+         x="201.33676"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="262.98172"
+           x="201.33676"
+           id="tspan7896"
+           sodipodi:role="line">cos (sin<tspan
+   id="tspan7914"
+   style="font-size:64.99999762%;baseline-shift:super">-1</tspan>(n<tspan
+   id="tspan7920"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7922"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> sin θ))</tspan></text>
+    </g>
+    <g
+       id="g8087"
+       transform="translate(-121.40919,100.71903)">
+      <text
+         id="text7951"
+         y="275.32251"
+         x="131.95827"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26768601"
+           y="275.32251"
+           x="131.95827"
+           id="tspan7949"
+           sodipodi:role="line">x = d<tspan
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601"
+   id="tspan7947">w</tspan> . tan θ + d<tspan
+   id="tspan8054"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> .                                  + d<tspan
+   id="tspan8056"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> .  </tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 157.63253,274.56871 h 23.82995"
+         id="path7953"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="163.0103"
+         y="271.97751"
+         id="text7963"><tspan
+           sodipodi:role="line"
+           id="tspan7961"
+           x="163.0103"
+           y="271.97751"
+           style="stroke-width:0.26458332">n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7957">w</tspan>/n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7959">g</tspan> sin θ</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7975"
+         d="m 191.4992,274.56871 h 24.09182"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text7985"
+         y="271.97751"
+         x="197.00797"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="271.97751"
+           x="197.00797"
+           id="tspan7983"
+           sodipodi:role="line">n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7979">w</tspan>/n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7981">a</tspan> sin θ</tspan></text>
+      <g
+         transform="translate(1.0832758,1.0583333)"
+         id="g8026">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="159.00339"
+           y="278.85669"
+           id="text7973"><tspan
+             sodipodi:role="line"
+             id="tspan7971"
+             x="159.00339"
+             y="278.85669"
+             style="stroke-width:0.26458332">1 - (n<tspan
+   id="tspan7967"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7969"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> sin θ)<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan7997">2</tspan></tspan></text>
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path8016"
+           d="m 157.55426,277.59073 0.66095,1.13307 0.73347,-2.94654 h 20.40714 v 0.47606"
+           style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(-7.2524861,1.0583333)"
+         id="g8034">
+        <text
+           id="text7995"
+           y="278.85669"
+           x="201.33676"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="278.85669"
+             x="201.33676"
+             id="tspan7993"
+             sodipodi:role="line">1 - (n<tspan
+   id="tspan7989"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>/n<tspan
+   id="tspan7991"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> sin θ)<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan7999">2</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 199.88765,277.59073 0.66095,1.13307 0.73347,-2.94654 h 20.40714 v 0.47606"
+           id="path8018"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g8392"
+       transform="translate(0.4316225,-5.4992209)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+         x="12.936007"
+         y="402.70743"
+         id="text8186"><tspan
+           sodipodi:role="line"
+           id="tspan8184"
+           x="12.936007"
+           y="402.70743"
+           style="stroke-width:0.26768601">x = d<tspan
+   id="tspan8178"
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601">w</tspan> . tan θ + d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan8180">g</tspan> .                                  + d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan8182">a</tspan> .  </tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path8188"
+         d="M 38.61027,401.95363 H 62.44022"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text8196"
+         y="399.36243"
+         x="47.563843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="399.36243"
+           x="47.563843"
+           id="tspan8194"
+           sodipodi:role="line">sin θ</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 72.47694,401.95363 H 96.56876"
+         id="path8198"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="81.561447"
+         y="399.36243"
+         id="text8206"><tspan
+           sodipodi:role="line"
+           id="tspan8204"
+           x="81.561447"
+           y="399.36243"
+           style="stroke-width:0.26458332">sin θ</tspan></text>
+      <g
+         id="g8220"
+         transform="translate(-117.93898,128.44325)">
+        <text
+           id="text8216"
+           y="278.85669"
+           x="159.00339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="278.85669"
+             x="159.00339"
+             id="tspan8214"
+             sodipodi:role="line">(n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan8304">g</tspan>/n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan8306">w</tspan>)<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan8308">2</tspan> - sin<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan8310">2</tspan> θ</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 157.55426,277.59073 0.66095,1.13307 0.73347,-2.94654 h 20.40714 v 0.47606"
+           id="path8218"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <rect
+         y="395.0321"
+         x="10.263366"
+         height="15.569084"
+         width="89.801987"
+         id="rect8238"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(-83.941379,128.44325)"
+         id="g8360">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="159.00339"
+           y="278.85669"
+           id="text8356"><tspan
+             sodipodi:role="line"
+             id="tspan8354"
+             x="159.00339"
+             y="278.85669"
+             style="stroke-width:0.26458332">(n<tspan
+   id="tspan8362"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan>/n<tspan
+   id="tspan8348"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>)<tspan
+   id="tspan8350"
+   style="font-size:64.99999762%;baseline-shift:super">2</tspan> - sin<tspan
+   id="tspan8352"
+   style="font-size:64.99999762%;baseline-shift:super">2</tspan> θ</tspan></text>
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path8358"
+           d="m 157.55426,277.59073 0.66095,1.13307 0.73347,-2.94654 h 20.40714 v 0.47606"
+           style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(100.97329,-5.4992209)"
+       id="g358">
+      <text
+         id="text310"
+         y="402.70743"
+         x="12.936007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26768601"
+           y="402.70743"
+           x="12.936007"
+           id="tspan308"
+           sodipodi:role="line">y = d<tspan
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601"
+   id="tspan302">w</tspan> . tan φ + d<tspan
+   id="tspan304"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan> .                                  + d<tspan
+   id="tspan306"
+   style="font-size:64.99999762%;baseline-shift:sub">a</tspan> .  </tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 38.61027,401.95363 H 62.44022"
+         id="path312"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="47.563843"
+         y="399.36243"
+         id="text316"><tspan
+           sodipodi:role="line"
+           id="tspan314"
+           x="47.563843"
+           y="399.36243"
+           style="stroke-width:0.26458332">sin φ</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path318"
+         d="M 72.47694,401.95363 H 96.56876"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text322"
+         y="399.36243"
+         x="81.561447"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="399.36243"
+           x="81.561447"
+           id="tspan320"
+           sodipodi:role="line">sin φ</tspan></text>
+      <g
+         transform="translate(-117.93898,128.44325)"
+         id="g338">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="159.00339"
+           y="278.85669"
+           id="text334"><tspan
+             sodipodi:role="line"
+             id="tspan332"
+             x="159.00339"
+             y="278.85669"
+             style="stroke-width:0.26458332">(n<tspan
+   id="tspan324"
+   style="font-size:64.99999762%;baseline-shift:sub">g</tspan>/n<tspan
+   id="tspan326"
+   style="font-size:64.99999762%;baseline-shift:sub">w</tspan>)<tspan
+   id="tspan328"
+   style="font-size:64.99999762%;baseline-shift:super">2</tspan> - sin<tspan
+   id="tspan330"
+   style="font-size:64.99999762%;baseline-shift:super">2</tspan> φ</tspan></text>
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path336"
+           d="m 157.55426,277.59073 0.66095,1.13307 0.73347,-2.94654 h 20.40714 v 0.47606"
+           style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect340"
+         width="89.801987"
+         height="15.569084"
+         x="10.263366"
+         y="395.0321" />
+      <g
+         id="g356"
+         transform="translate(-83.941379,128.44325)">
+        <text
+           id="text352"
+           y="278.85669"
+           x="159.00339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="278.85669"
+             x="159.00339"
+             id="tspan350"
+             sodipodi:role="line">(n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan342">a</tspan>/n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan344">w</tspan>)<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan346">2</tspan> - sin<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan348">2</tspan> φ</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2698369px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 157.55426,277.59073 0.66095,1.13307 0.73347,-2.94654 h 20.40714 v 0.47606"
+           id="path354"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.3617983"
+       y="421.79495"
+       id="text362"><tspan
+         sodipodi:role="line"
+         id="tspan360"
+         x="5.3617983"
+         y="421.79495"
+         style="stroke-width:0.26458332">Simplification</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+       x="17.469822"
+       y="426.45132"
+       id="text372"><tspan
+         sodipodi:role="line"
+         id="tspan370"
+         x="17.469822"
+         y="426.45132"
+         style="stroke-width:0.26768601">x = c<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan548">x</tspan> . d<tspan
+   id="tspan364"
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601">w</tspan> . tan θ </tspan></text>
+    <text
+       id="text430"
+       y="431.6019"
+       x="17.444727"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26768601"
+         y="431.6019"
+         x="17.444727"
+         id="tspan428"
+         sodipodi:role="line">y = c<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan550">y</tspan> . d<tspan
+   style="font-size:1.85595632px;baseline-shift:sub;stroke-width:0.26768601"
+   id="tspan422">w</tspan> . tan φ </tspan></text>
+    <text
+       id="text540"
+       y="437.57529"
+       x="17.469822"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26768601"
+         y="437.57529"
+         x="17.469822"
+         id="tspan538"
+         sodipodi:role="line">θ = tan<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan556">-1</tspan>(x/(c<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan554">x</tspan>.d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan552">w</tspan>)) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85531735px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26768601"
+       x="17.444727"
+       y="443.18793"
+       id="text546"><tspan
+         sodipodi:role="line"
+         id="tspan544"
+         x="17.444727"
+         y="443.18793"
+         style="stroke-width:0.26768601">φ = tan<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan562">-1</tspan>(y/(c<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan560">y</tspan>.d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan558">w</tspan>)) </tspan></text>
+  </g>
+</svg>
