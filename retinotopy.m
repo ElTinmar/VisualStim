@@ -129,7 +129,7 @@ try
     if (place_fish)
         disp('Place the fish, press key when done')
         ind_cross = find(abs(theta(:)) <= 0.001 | abs(phi(:)) <= 0.001); 
-        Cross = zeros(projHeight,projWidth);
+        Cross = bckgColor*ones(projHeight,projWidth);
         Cross(ind_cross) = dotColor;
         textureCross = Screen('MakeTexture',win,Cross);
         Screen('DrawTexture', win, textureCross);
@@ -139,7 +139,7 @@ try
     
     %% Create textures
     disp('Creating textures')
-    Reticle = zeros(projHeight,projWidth);
+    Reticle = bckgColor*ones(projHeight,projWidth);
     for i=1:nPos
         ind_line = [];
         if (Az(i)~=0 & El(i)~=0)
@@ -149,7 +149,7 @@ try
         Reticle([ind_line;ind_circle]) = dotColor;
     end
     ind_cross = find(abs(theta(:)) <= 0.001 | abs(phi(:)) <= 0.001); 
-    Cross = zeros(projHeight,projWidth);
+    Cross = bckgColor*ones(projHeight,projWidth);
     Cross = Reticle;
     Cross(ind_cross) = dotColor;
     textureReticle = Screen('MakeTexture',win2,cat(3,Cross,Reticle,Reticle));
@@ -157,7 +157,7 @@ try
     texture = [];
     texture2 = [];
     for i=1:nPos
-        im = zeros(projHeight,projWidth);
+        im = bckgColor*ones(projHeight,projWidth);
         ind_dot = find((theta(:) - Az(i)).^2 + (phi(:) - El(i)).^2 <= (Sz(i)/2).^2); 
         im(ind_dot) = dotColor;
         texture(i) = Screen('MakeTexture',win,im);
@@ -172,7 +172,7 @@ try
         moving_texture = [];
         moving_texture2 = [];
            for i=1:length(azimuth)   
-            im = zeros(projHeight,projWidth);
+            im = bckgColor*ones(projHeight,projWidth);
             ind_dot = find((theta(:) - azimuth(i)).^2 + (phi(:)).^2 <= (deg2rad(4)/2).^2); % 4deg dots
             im(ind_dot) = dotColor;
             moving_texture(i) = Screen('MakeTexture',win,im);
@@ -293,12 +293,12 @@ try
         warning('Preview mode, the full experiment will not be performed')
 
         disp('Preparing textures...')
-        im_stacked = zeros(projHeight,projWidth);
+        im_stacked = bckgColor*ones(projHeight,projWidth);
         for i=1:nPos
-            im = zeros(projHeight,projWidth);
+            im = bckgColor*ones(projHeight,projWidth);
             ind_dot = find((theta(:) - Az(i)).^2 + (phi(:) - El(i)).^2 <= (Sz(i)/2).^2); 
             im(ind_dot) = dotColor;
-            im_stacked = im_stacked + im;
+            im_stacked = im_stacked + im; # todo fix this if background is white
         end
         texture = Screen('MakeTexture',win,im_stacked);
         disp('...textures ready');
