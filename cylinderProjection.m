@@ -51,14 +51,14 @@ classdef cylinderProjection
             y(ind_valid) = obj.cy*(obj.d*(obj.r*tan(phi(ind_valid))+(obj.y_fish-obj.y_zero)/obj.cy)./(obj.d + obj.r*(1-cos(theta(ind_valid))))) + obj.y_zero;
         end
         
-        function theta = get_theta(obj,x)
+        function theta = get_theta(obj,x,y)
             theta = NaN(size(x));
             ind_valid = find((x >= obj.x_range(1)) & (x <= obj.x_range(2)));
             theta(ind_valid) = atan2(obj.cx*obj.d*(x(ind_valid)-obj.x_zero)*(obj.d+obj.r)-(x(ind_valid)-obj.x_zero).*sqrt(-(x(ind_valid)-obj.x_zero).^2*(obj.d+obj.r)^2+obj.cx^2*obj.d^2*obj.r^2+obj.r^2*(x(ind_valid)-obj.x_zero).^2),...
                 (x(ind_valid)-obj.x_zero).^2*(obj.d+obj.r) + obj.cx*obj.d*sqrt(-(x(ind_valid)-obj.x_zero).^2*(obj.d+obj.r)^2 + obj.cx^2*obj.d^2*obj.r^2 + obj.r^2*(x(ind_valid)-obj.x_zero).^2));
         end
         
-        function phi = get_phi(obj,y,x)
+        function phi = get_phi(obj,x,y)
             if ~isequal(size(y),size(x))
                 error('y and x should have compatible sizes')
             end
