@@ -70,8 +70,8 @@ try
             end
 
             geomProj = cylinderProjection(d,r,cx,cy,x_zero,y_zero,y_fish);
-            theta = geomProj.get_theta(Xq);
-            phi = geomProj.get_phi(Yq,Xq);
+            theta = geomProj.get_theta(Xq,Yq);
+            phi = geomProj.get_phi(xq,Yq);
     
             % function to synchronize stimulation and calcium imaging
             ardu = arduino('COM5');
@@ -95,8 +95,8 @@ try
             end
             
             geomProj = flatProjection(dw,cx,cy,x_zero,y_zero);
-            theta = geomProj.get_theta(Xq);
-            phi = geomProj.get_phi(Yq);
+            theta = geomProj.get_theta(Xq,Yq);
+            phi = geomProj.get_phi(Xq,Yq);
     
             % function to synchronize stimulation and calcium imaging
             % National Instruments card
@@ -188,8 +188,8 @@ try
             [mx, my, buttons] = GetMouse(win2);
             if sum(buttons)>0 % mouse clicked
                 % get closest point
-                t = geomProj.get_theta(mx);
-                p = geomProj.get_phi(my,mx   );
+                t = geomProj.get_theta(mx,my);
+                p = geomProj.get_phi(mx,my);
                 [~,ind] = min(pdist2([Az(:) El(:)],[t p]));
                 Screen('DrawTexture', win, texture(ind));
                 Screen('DrawTexture', win2, texture2(ind));
