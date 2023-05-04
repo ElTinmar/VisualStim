@@ -11,7 +11,6 @@ warper = Warper(win,
                 flipHorizontal = False,
                 flipVertical = False)
 
-
 dot = visual.Circle(win, radius=0.1, colorSpace='rgb255', pos=(-1,0))
 n_frames = 100
 
@@ -23,6 +22,5 @@ for dist in np.linspace(0.1,40,10):
         dot.pos += [1/50,0]
         dot.draw()
         win.flip()
-
 
 win.close()
